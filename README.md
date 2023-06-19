@@ -2,7 +2,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yangsx-1&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangsx-1&layout=compact&hide=ipynb" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangsx-1&layout=compact&hide=jupyter%20notebook" />
 </a>
 
 🔭 I’m currently working on key-value store
