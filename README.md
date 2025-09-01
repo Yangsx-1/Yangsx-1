@@ -5,9 +5,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangsx-1&layout=compact&hide=jupyter%20notebook" />
 </a>
 
-🔭 I’m currently working on key-value store and model training.
+🔭 I’m currently working on LLM model training system and large key-value store system.
 
-🌱 I’m currently researching database system and distributed model training system, especially in large recommendation model.
+🌱 I’m currently researching distributed model training system, especially in large language model and large recommendation model. I'm also interested in database system and operating system.
 
 📫 How to reach me: yangsx-1@qq.com
 
